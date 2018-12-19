@@ -1,4 +1,4 @@
-## Unblock Mirror sites list
+## Unblock mirror sites list
 
 You can use the [editor on GitHub](https://github.com/pr0xy2/unblock/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
