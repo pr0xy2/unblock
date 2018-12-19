@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ThePirateBay proxy
 
+[https://eproxy.info/unblock/thepiratebay.org](https://eproxy.info/unblock/thepiratebay.org)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
