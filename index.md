@@ -62,4 +62,14 @@ These days popular sites have been blocked by many ISP's across the globe. To by
 2. [https://emirror.xyz/unblock/project-free-tv.ag](https://emirror.xyz/unblock/project-free-tv.ag)
 3. [https://eunblocked.info/unblock/project-free-tv.ag](https://eunblocked.info/unblock/project-free-tv.ag)
 
+## LosMovies proxy
+1. [https://eproxy.info/unblock/losmovies.cx](https://eproxy.info/unblock/losmovies.cx)
+2. [https://emirror.xyz/unblock/losmovies.cx](https://emirror.xyz/unblock/losmovies.cx)
+3. [https://eunblocked.info/unblock/losmovies.cx](https://eunblocked.info/unblock/losmovies.cx)
+
+## DPStream proxy
+1. [https://eproxy.info/unblock/dpstream.net](https://eproxy.info/unblock/dpstream.net)
+2. [https://emirror.xyz/unblock/dpstream.net](https://emirror.xyz/unblock/dpstream.net)
+3. [https://eunblocked.info/unblock/dpstream.net](https://eunblocked.info/unblock/dpstream.net)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
