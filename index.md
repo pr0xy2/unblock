@@ -44,4 +44,16 @@ These days popular sites have been blocked by many ISP's across the globe. To by
 2. [https://emirror.xyz/unblock/movcr.cc](https://emirror.xyz/unblock/movcr.cc)
 3. [https://eunblocked.info/unblock/movcr.cc](https://eunblocked.info/unblock/movcr.cc)
 
+## SeedPeer proxy
+
+1. [https://eproxy.info/unblock/seedpeer.me](https://eproxy.info/unblock/seedpeer.me)
+2. [https://emirror.xyz/unblock/seedpeer.me](https://emirror.xyz/unblock/seedpeer.me)
+3. [https://eunblocked.info/unblock/seedpeer.me](https://eunblocked.info/unblock/seedpeer.me)
+
+## OTorrents  proxy
+
+1. [https://eproxy.info/unblock/otorrents.com](https://eproxy.info/unblock/otorrents.com)
+2. [https://emirror.xyz/unblock/otorrents.com](https://emirror.xyz/unblock/otorrents.com)
+3. [https://eunblocked.info/unblock/otorrents.com](https://eunblocked.info/unblock/otorrents.com)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
