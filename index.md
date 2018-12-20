@@ -1,8 +1,6 @@
 # Unblock mirror sites list
 
-You can use the [editor on GitHub](https://github.com/pr0xy2/unblock/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These days popular sites have been blocked by many ISP's across the globe. To bypass internet censorship, this list unblock sites like The Pirate Bay, Extratorrent, ETTV, Torrentz2 and many more. This is an up to date list of sites proxies.
 
 ## ThePirateBay proxy
 
