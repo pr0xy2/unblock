@@ -22,6 +22,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. [https://emirror.xyz/unblock/torrentz2.eu](https://emirror.xyz/unblock/torrentz2.eu)
 3. [https://eunblocked.info/unblock/torrentz2.eu](https://eunblocked.info/unblock/torrentz2.eu)
 
+### Pirateiro proxy
+
+1. [https://eproxy.info/unblock/pirateiro.com](https://eproxy.info/unblock/pirateiro.com)
+2. [https://emirror.xyz/unblock/pirateiro.com](https://emirror.xyz/unblock/pirateiro.com)
+3. [https://eunblocked.info/unblock/pirateiro.com](https://eunblocked.info/unblock/pirateiro.com)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
