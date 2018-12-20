@@ -50,10 +50,22 @@ These days popular sites have been blocked by many ISP's across the globe. To by
 2. [https://emirror.xyz/unblock/seedpeer.me](https://emirror.xyz/unblock/seedpeer.me)
 3. [https://eunblocked.info/unblock/seedpeer.me](https://eunblocked.info/unblock/seedpeer.me)
 
-## OTorrents  proxy
+## OTorrents proxy
 
 1. [https://eproxy.info/unblock/otorrents.com](https://eproxy.info/unblock/otorrents.com)
 2. [https://emirror.xyz/unblock/otorrents.com](https://emirror.xyz/unblock/otorrents.com)
 3. [https://eunblocked.info/unblock/otorrents.com](https://eunblocked.info/unblock/otorrents.com)
+
+## Torrent4You proxy
+
+1. [https://eproxy.info/unblock/torrent4you.me](https://eproxy.info/unblock/torrent4you.me)
+2. [https://emirror.xyz/unblock/torrent4you.me](https://emirror.xyz/unblock/torrent4you.me)
+3. [https://eunblocked.info/unblock/torrent4you.me](https://eunblocked.info/unblock/torrent4you.me)
+
+## YTS proxy
+
+1. [https://eproxy.info/unblock/yts.vg](https://eproxy.info/unblock/yts.vg)
+2. [https://emirror.xyz/unblock/yts.vg](https://emirror.xyz/unblock/yts.vg)
+3. [https://eunblocked.info/unblock/yts.vg](https://eunblocked.info/unblock/yts.vg)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
