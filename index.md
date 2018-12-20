@@ -28,32 +28,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. [https://emirror.xyz/unblock/pirateiro.com](https://emirror.xyz/unblock/pirateiro.com)
 3. [https://eunblocked.info/unblock/pirateiro.com](https://eunblocked.info/unblock/pirateiro.com)
 
+## 7StarHD proxy
+
+1. [https://eproxy.info/unblock/7starhd.com](https://eproxy.info/unblock/7starhd.com)
+2. [https://emirror.xyz/unblock/7starhd.com](https://emirror.xyz/unblock/7starhd.com)
+3. [https://eunblocked.info/unblock/7starhd.com](https://eunblocked.info/unblock/7starhd.com)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pr0xy2/unblock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
